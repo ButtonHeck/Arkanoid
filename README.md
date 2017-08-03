@@ -1,1 +1,3 @@
-Arkanoid
+Arkanoid v1.0
+
+
